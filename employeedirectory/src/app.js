@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Header from "./components/header";
 import Search from "./components/search";
 import Table from "./components/table";
-import API from "./utils/API.js";
+import API from "./utils/api.js";
 
 
 class App extends Component {
