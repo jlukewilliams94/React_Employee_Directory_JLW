@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed Application: https://jlukewilliams94.github.io/React_Employee_Directory_JLW
 
 ## Available Scripts
 
